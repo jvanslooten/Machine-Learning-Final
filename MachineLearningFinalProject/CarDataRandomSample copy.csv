@@ -1,0 +1,163 @@
+/usr/local/bin/python3.7 "/Users/jvanslooten/Desktop/Machine Learning/MachineLearningFinalProject/CarDataRandomSample.py"
+                     Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+244  Ford Mustang II 2+2  25.5           4  ...           15.8      77       US
+
+[1 rows x 9 columns]
+                            Car   MPG  ...   Model   Origin
+111  AMC Hornet Sportabout (sw)  18.0  ...      71       US
+
+[1 rows x 9 columns]
+                           Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+107  Chevrolet Chevelle Malibu  18.0           8  ...           12.0      70       US
+
+[1 rows x 9 columns]
+                      Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+160  Mercury Monarch ghia  20.2           8  ...           12.8      78       US
+
+[1 rows x 9 columns]
+                          Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+98  Chevrolet Caprice Classic  17.0           8  ...           15.4      79       US
+
+[1 rows x 9 columns]
+             Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+215  Audi 100 LS  24.0           4  ...           14.5      70   Europe
+
+[1 rows x 9 columns]
+            Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+69  AMC Matador  15.5           8  ...           13.9      76       US
+
+[1 rows x 9 columns]
+                    Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+102  Chevrolet Concours  17.5           6  ...           16.4      77       US
+
+[1 rows x 9 columns]
+                       Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+385  Toyota Corolla Tercel  38.1           4  ...           18.8      80    Japan
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+33  Chevrolet Impala  14.0           8  ...            9.0      70       US
+
+[1 rows x 9 columns]
+                      Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+390  Renault Lecar Deluxe  40.9           4  ...           17.3      80   Europe
+
+[1 rows x 9 columns]
+                  Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+207  Plymouth Sapporo  23.2           4  ...           16.7      78       US
+
+[1 rows x 9 columns]
+           Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+324  Mazda 626  31.3           4  ...           17.5      80    Japan
+
+[1 rows x 9 columns]
+            Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+203  Audi 100LS  23.0           4  ...           15.0      75   Europe
+
+[1 rows x 9 columns]
+                Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+340  Toyota Corolla  32.4           4  ...           16.8      81    Japan
+
+[1 rows x 9 columns]
+            Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+192  Datsun 810  22.0           6  ...           14.5      77    Japan
+
+[1 rows x 9 columns]
+                  Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+248  Plymouth Cricket  26.0           4  ...           20.5      71       US
+
+[1 rows x 9 columns]
+                         Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+250  Volkswagen Super Beetle  26.0           4  ...           21.0      73   Europe
+
+[1 rows x 9 columns]
+                       Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+347  Datsun F-10 Hatchback  33.5           4  ...           16.8      77    Japan
+
+[1 rows x 9 columns]
+                           Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+96  Oldsmobile Cutlass Supreme  17.0           8  ...           19.0      77       US
+
+[1 rows x 9 columns]
+            Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+378  Datsun 310  37.2           4  ...           16.4      80    Japan
+
+[1 rows x 9 columns]
+            Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+378  Datsun 310  37.2           4  ...           16.4      80    Japan
+
+[1 rows x 9 columns]
+               Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+116  Ford Maverick  18.0           6  ...           16.5      73       US
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+38  Chevrolet Impala  14.0           8  ...           12.0      71       US
+
+[1 rows x 9 columns]
+                   Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+182  Pontiac Lemans V6  21.5           6  ...           15.4      79       US
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+302  Honda Accord LX  29.5           4  ...           16.6      78    Japan
+
+[1 rows x 9 columns]
+                           Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+83  Chevrolete Chevelle Malibu  16.0           6  ...           18.5      75       US
+
+[1 rows x 9 columns]
+                          Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+299  Volkswagen Rabbit Custom  29.0           4  ...           14.5      77   Europe
+
+[1 rows x 9 columns]
+                      Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+224  Ford Fairmont Futura  24.0           4  ...           16.4      82       US
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+187  Ford Pinto (sw)  22.0           4  ...           16.0      72       US
+
+[1 rows x 9 columns]
+                   Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+296  Volkswagen Rabbit  29.0           4  ...           14.0      75   Europe
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+46  Ford Gran Torino  14.0           8  ...           14.5      73       US
+
+[1 rows x 9 columns]
+                 Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+72  Chrysler Cordoba  15.5           8  ...           12.2      77       US
+
+[1 rows x 9 columns]
+              Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+95  Buick Century  17.0           6  ...           21.0      75       US
+
+[1 rows x 9 columns]
+           Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+139  AMC Pacer  19.0           6  ...           17.0      75       US
+
+[1 rows x 9 columns]
+                      Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+19  Ford Gran Torino (sw)  13.0           8  ...           16.0      72       US
+
+[1 rows x 9 columns]
+                          Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+48  Dodge Coronet Custom (sw)  14.0           8  ...           13.5      74       US
+
+[1 rows x 9 columns]
+                   Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+253  Volkswagen Dasher  26.0           4  ...           15.5      74   Europe
+
+[1 rows x 9 columns]
+             Car   MPG   Cylinders  ...   Acceleration   Model   Origin
+275  Peugeot 504  27.2           4  ...           24.8      79   Europe
+
+[1 rows x 9 columns]
+                            Car   MPG  ...   Model   Origin
+259  Chrysler Lebaron Medallion  26.0  ...      82       US
+
+[1 rows x 9 columns]
+
+Process finished with exit code 0
